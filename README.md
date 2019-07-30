@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/AndreSwartz/SampleTest/_apis/build/status/bornbjorn.pipelines-java?branchName=master)](https://dev.azure.com/AndreSwartz/SampleTest/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
